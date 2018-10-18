@@ -1,3 +1,202 @@
+POST http://localhost:8080/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-18T021544.200.json
+
+###
+
+POST http://localhost:8080/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-18T021405.500.html
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+<> 2018-10-18T015407.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015358.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+<> 2018-10-18T015331.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+<> 2018-10-18T015324.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+<> 2018-10-18T015215.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Mere"}
+
+<> 2018-10-18T015205.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Mere"}
+
+<> 2018-10-18T015158.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015152.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015149.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015147.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015037.500.html
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T015034.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T014651.500.html
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+
+<> 2018-10-18T014611.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ton Pere"}
+
+<> 2018-10-18T014553.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta mere"}
+
+<> 2018-10-18T014542.200.json
+
+###
+
+POST http://localhost:80/level
+Content-Type: application/json
+
+{"levelName" : "Ta mere"}
+
+###
+
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{"username": "Nicolas", "password" : "Salocin" }
+
+<> 2018-10-18T014341.200.json
+
+###
+
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{"username": "Jacob", "password" : "Bojac" }
+
+<> 2018-10-18T014314.200.json
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{"score" : 9090}
+
+###
+
 GET http://localhost:8080
 Accept: application/json
 
