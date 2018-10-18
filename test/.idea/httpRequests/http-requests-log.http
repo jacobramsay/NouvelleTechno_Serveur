@@ -1,0 +1,37 @@
+GET http://localhost:8080
+Accept: application/json
+
+<> 2018-10-18T104803.200.json
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{"score" : 9090}
+
+<> 2018-10-18T104759.200.json
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{"score" : 1337}
+
+<> 2018-10-18T104748.200.json
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+
+<> 2018-10-18T104745.200.json
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+
+###
+
