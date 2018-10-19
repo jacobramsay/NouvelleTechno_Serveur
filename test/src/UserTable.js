@@ -13,8 +13,17 @@ class UserTable{
         let statement = this.database.prepare("SELECT * FROM User");
         return statement.all();
     }
-    getUserExists(username){
 
+    getUserId(username){
+        let statement = this.database.prepare("SELECT userId FROM User WHERE userUsername =?");
+        let query =  statement.all(username);
+        return query[0].userId;
+    }
+
+     identification(username, password){
+        let statement =this.database.prepare("SELECT userId FROM User WHERE userUsername =? AND userPassword =?");
+        let query = statement.all(username,password);
+        return query.length > 0;
     }
 }
 

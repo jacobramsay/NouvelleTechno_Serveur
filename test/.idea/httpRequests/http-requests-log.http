@@ -1,3 +1,393 @@
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Saaaaalocin"}
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T101523.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T101452.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T101421.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T101109.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T101019.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100947.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100932.200.json
+
+###
+
+POST http://localhost:3330/user
+Content-Type: application/json
+
+{"username": "Nicolas", "password" : "Salocin" }
+
+<> 2018-10-19T100830.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100755.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100700.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100451.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1234567890, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T100325.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 999999999999, "nbDeaths" : 9999999999, "scoreValue" : 9999999999, "levelId" : 199999999, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T095215.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Nicolas", "password":"Salocin"}
+
+<> 2018-10-19T095133.200.json
+
+###
+
+POST http://localhost:3330/user
+Content-Type: application/json
+
+{"username": "Nicolas", "password" : "Salocin" }
+
+<> 2018-10-19T095103.200.json
+
+###
+
+POST http://localhost:3330/user
+Content-Type: application/json
+
+{"username": "Nicolas", "password" : "Salocin" }
+
+<> 2018-10-19T095005.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T094927.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T094902.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T092617.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T092524.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T092124.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T092041.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091934.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091854.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091511.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091442.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091309.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password":"Bocaj"}
+
+<> 2018-10-19T091201.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password" : "Bojac"}
+
+<> 2018-10-19T085855.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "username" :"Jacob", "password" : "Bojac"}
+
+<> 2018-10-19T085535.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-19T084515.500.html
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-19T084354.500.html
+
+###
+
+POST http://localhost:3330/resultFromUserIdAndLevelId
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T081036.200.json
+
+###
+
+POST http://localhost:3330/resultFromUserIdAndLevelId
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+###
+
+POST http://localhost:3330/resultFromUserIdAndLevelId
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T080637.200.json
+
+###
+
+POST http://localhost:3330/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-19T080635.200.json
+
+###
+
+POST http://localhost:8080/results
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T080259.200.json
+
+###
+
+POST http://localhost:8080/results
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T080228.500.html
+
+###
+
+POST http://localhost:8080/results
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T080153.500.html
+
+###
+
+POST http://localhost:8080/results
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T080019.500.html
+
+###
+
+POST http://localhost:8080/result+Ids
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+<> 2018-10-19T075932.404.html
+
+###
+
+POST http://localhost:80/result+Ids
+Content-Type: application/json
+
+{"userId" : 1, "levelId" : 1}
+
+###
+
+POST http://localhost:8080/result
+Content-Type: application/json
+
+{"timeInSeconds" : 8.0, "nbDeaths" : 3, "scoreValue" : 1000, "levelId" : 1, "userId" :1}
+
+<> 2018-10-19T075915.200.json
+
+###
+
 POST http://localhost:8080/result
 Content-Type: application/json
 
@@ -49,188 +439,6 @@ Content-Type: application/json
 {"levelName" : "Ta Mere"}
 
 <> 2018-10-18T015324.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ta Mere"}
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ta Mere"}
-
-<> 2018-10-18T015215.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Mere"}
-
-<> 2018-10-18T015205.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Mere"}
-
-<> 2018-10-18T015158.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T015152.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T015149.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T015147.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T015037.500.html
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T015034.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T014651.500.html
-
-###
-
-GET http://localhost:8080
-Accept: application/json
-
-<> 2018-10-18T014611.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ton Pere"}
-
-<> 2018-10-18T014553.200.json
-
-###
-
-POST http://localhost:8080/level
-Content-Type: application/json
-
-{"levelName" : "Ta mere"}
-
-<> 2018-10-18T014542.200.json
-
-###
-
-POST http://localhost:80/level
-Content-Type: application/json
-
-{"levelName" : "Ta mere"}
-
-###
-
-POST http://localhost:8080/user
-Content-Type: application/json
-
-{"username": "Nicolas", "password" : "Salocin" }
-
-<> 2018-10-18T014341.200.json
-
-###
-
-POST http://localhost:8080/user
-Content-Type: application/json
-
-{"username": "Jacob", "password" : "Bojac" }
-
-<> 2018-10-18T014314.200.json
-
-###
-
-POST http://localhost:8080
-Content-Type: application/json
-
-{"score" : 9090}
-
-###
-
-GET http://localhost:8080
-Accept: application/json
-
-<> 2018-10-18T104803.200.json
-
-###
-
-POST http://localhost:8080
-Content-Type: application/json
-
-{"score" : 9090}
-
-<> 2018-10-18T104759.200.json
-
-###
-
-POST http://localhost:8080
-Content-Type: application/json
-
-{"score" : 1337}
-
-<> 2018-10-18T104748.200.json
-
-###
-
-GET http://localhost:8080
-Accept: application/json
-
-<> 2018-10-18T104745.200.json
-
-###
-
-GET http://localhost:8080
-Accept: application/json
 
 ###
 

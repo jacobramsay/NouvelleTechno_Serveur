@@ -23,7 +23,15 @@ app.post('/level', function (req,res) {
 });
 
 app.post('/result', function (req,res) {
-    database.resultTable.add(req.body.timeInSeconds,req.body.nbDeaths,req.body.scoreValue,req.body.levelId,req.body.userId );
+    if(identification(req.body.username, req.body.password)){
+        let userId = database.userTable.getUserId(req.body.username);
+        database.resultTable.add(req.body.timeInSeconds,req.body.nbDeaths,req.body.scoreValue,req.body.levelId, userId);
+        res.send(database.resultTable.read());
+    }
+});
+
+app.post('/resultFromUserIdAndLevelId', function (req,res) {
+    database.resultTable.getResultFromNameAndLevel(req.body.userId,req.body.levelId);
     res.send(database.resultTable.read());
 });
 
@@ -32,5 +40,9 @@ app.post('/',function (req,res) {
     res.send(database.read());
 });
 
-app.listen(8080);
+function identification(username, password){
+    return database.userTable.identification(username,password);
+}
+
+app.listen(3330);
 

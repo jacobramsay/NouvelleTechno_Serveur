@@ -1,0 +1,26 @@
+[
+  {
+    "resultId": 1,
+    "resultTimeInSeconds": 8,
+    "resultNbDeaths": 3,
+    "resultScoreValue": 1000,
+    "result_LevelId": 1,
+    "result_UserId": 1
+  },
+  {
+    "resultId": 2,
+    "resultTimeInSeconds": 8,
+    "resultNbDeaths": 3,
+    "resultScoreValue": 1000,
+    "result_LevelId": 1,
+    "result_UserId": 1
+  },
+  {
+    "resultId": 3,
+    "resultTimeInSeconds": 8,
+    "resultNbDeaths": 3,
+    "resultScoreValue": 1000,
+    "result_LevelId": 1,
+    "result_UserId": 1
+  }
+]
