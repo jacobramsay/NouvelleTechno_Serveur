@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "cross-env nodemon src/index.js --watch src --exec babel-node",
-    "build": "babel src -d build"
+    "build": "babel src -d build",
+    "test": "mocha src/**/*.test.js --require @babel/register"
   },
   "dependencies": {
     "better-sqlite3": "^5.0.1",
@@ -16,7 +17,11 @@
     "@babel/core": "^7.1.2",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
+    "@types/express": "^4.16.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
     "cross-env": "^5.2.0",
+    "mocha": "^5.2.0",
     "nodemon": "^1.18.4"
   }
 }

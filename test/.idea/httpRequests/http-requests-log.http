@@ -3,6 +3,15 @@ Content-Type: application/json
 
 {"username": "Jacjjjjjob"}
 
+<> 2018-10-19T124536.200.json
+
+###
+
+POST http://localhost:3330/resultFromUserName
+Content-Type: application/json
+
+{"username": "Jacjjjjjob"}
+
 <> 2018-10-19T121512.200.json
 
 ###
