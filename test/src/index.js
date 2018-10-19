@@ -7,9 +7,17 @@ let app = express();
 app.use(bodyparser.json());
 
 let database = new Database();
-/* GET home page. */
+
 app.get('/', function(req, res) {
   res.send(database.read());
+});
+
+app.post('/resultFromLevelName', function(req, res) {
+    res.send(database.resultTable.getResultsFromLevelName(req.body.levelName));
+});
+
+app.post('/resultFromUserName', function(req, res) {
+    res.send(database.resultTable.getResultsFromUsername(req.body.username));
 });
 
 app.post('/user', function (req,res) {
@@ -28,11 +36,6 @@ app.post('/result', function (req,res) {
         database.resultTable.add(req.body.timeInSeconds,req.body.nbDeaths,req.body.scoreValue,req.body.levelId, userId);
         res.send(database.resultTable.read());
     }
-});
-
-app.post('/resultFromUserIdAndLevelId', function (req,res) {
-    database.resultTable.getResultFromNameAndLevel(req.body.userId,req.body.levelId);
-    res.send(database.resultTable.read());
 });
 
 app.post('/',function (req,res) {

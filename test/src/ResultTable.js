@@ -1,3 +1,4 @@
+
 class ResultTable{
     constructor(database){
         this.database = database;
@@ -15,19 +16,18 @@ class ResultTable{
         return statement.all();
     }
 
-    getResultsFromUsernamameAndLevel(username, levelname) {
-        let statement = this.database.prepare("SELECT * FROM Result WHERE result_userId = ? AND result_LevelId = ?");
-        return statement.all(userId,levelId);
-    }
-
     getResultsFromUsername(username) {
-        let statement = this.database.prepare("SELECT * FROM Result WHERE result_userId = ? AND result_LevelId = ?");
-        return statement.all(userId,levelId);
+        let statement = this.database.prepare("SELECT Result.resultTimeInSeconds,Result.resultNbDeaths,Result.resultScoreValue,User.userUsername,Level.levelName FROM Result " +
+            "INNER JOIN User ON Result.result_UserId = User.userId " +
+            "INNER JOIN Level ON Result.result_LevelId = Level.levelId WHERE user.userUsername = ?");
+        return statement.all(username);
     }
 
     getResultsFromLevelName(levelname) {
-        let statement = this.database.prepare("SELECT * FROM Result WHERE result_LevelId = ?");
-        return statement.all(levelId);
+        let statement = this.database.prepare("SELECT Result.resultTimeInSeconds,Result.resultNbDeaths,Result.resultScoreValue,User.userUsername,Level.levelName FROM Result " +
+            "INNER JOIN User ON Result.result_UserId = User.userId " +
+            "INNER JOIN Level ON Result.result_LevelId = Level.levelId WHERE Level.levelName = ?");
+        return statement.all(levelname);
     }
 }
 

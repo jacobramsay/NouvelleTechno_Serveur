@@ -1,64 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fab7c55-003e-4ac7-b1f5-3f0d3cc9d85d" name="Default" comment="" />
+    <list default="true" id="aae76670-5f0c-4091-a64d-8932fb18d019" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Serveur.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T015324.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T015331.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T015358.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T015407.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T021405.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-18T021544.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T075915.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T075932.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080019.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080153.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080228.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080259.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080635.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T080637.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T081036.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T084354.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T084515.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T085535.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T085855.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091201.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091309.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091442.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091511.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091854.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T091934.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T092041.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T092124.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T092524.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T092617.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T094902.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T094927.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T095005.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T095103.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T095133.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T095215.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100325.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100451.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100700.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100755.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100830.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100932.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T100947.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T101019.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T101109.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T101421.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T101452.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-10-19T101523.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.1.2.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.1.2.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request.http" beforeDir="false" afterPath="$PROJECT_DIR$/request.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ResultTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResultTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-602778055">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="http" value="2" />
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTTP Request" value="2" />
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="http" value="117" />
+          <entry key="js" value="147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTTP Request" value="117" />
+          <entry key="JavaScript" value="147" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/database.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultTable.js" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ResultTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+            <state relative-caret-position="-70">
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LevelTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LevelTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="26" column="69" lean-forward="true" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+            <state relative-caret-position="434">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -66,73 +132,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UserTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request.http" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/request.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="508">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTTP Request" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/javascripts/SkinnedMesh.js" />
-        <option value="$PROJECT_DIR$/routes/users.js" />
-        <option value="$PROJECT_DIR$/public/javascripts/allo.js" />
-        <option value="$PROJECT_DIR$/routes/now.js" />
-        <option value="$PROJECT_DIR$/src/users.js" />
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/src/now.js" />
-        <option value="$PROJECT_DIR$/src/LevelTable.js" />
-        <option value="$PROJECT_DIR$/src/database.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/request.http" />
-        <option value="$PROJECT_DIR$/src/UserTable.js" />
         <option value="$PROJECT_DIR$/src/ResultTable.js" />
+        <option value="$PROJECT_DIR$/request.http" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -147,11 +172,12 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="230" />
-    <option name="y" value="-744" />
-    <option name="width" value="1940" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,11 +188,11 @@
         <subPane>
           <expand>
             <path>
-              <item name="Serveur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Serveur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -177,24 +203,53 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/www" />
-    <property name="nodejs_interpreter_path" value="node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jacob\WebstormProjects\test\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicolas\Documents\Travaux\Nouvelles Technologies\TP2\Partie 2\Tp2-Partie2\Backend\NouvelleTechno_Serveur\test\src" />
     </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3330/resultFromUserName" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;Jacjjjjjob&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3330/resultFromUserName" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;Jacob&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3330/result" />
@@ -208,7 +263,39 @@
             </list>
           </option>
           <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 1234567890, &quot;nbDeaths&quot; : 1234567890, &quot;scoreValue&quot; : 1234567890, &quot;levelId&quot; : 1234567890, &quot;username&quot; :&quot;Nicolas&quot;, &quot;password&quot;:&quot;Salocin&quot;}" />
+          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 1234567890, &quot;nbDeaths&quot; : 1234567890, &quot;scoreValue&quot; : 1234567890, &quot;levelId&quot; : 1, &quot;username&quot; :&quot;Jacob&quot;, &quot;password&quot;:&quot;Salocin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3330/resultFromLevelName" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;levelName&quot;: &quot;Ta Mere&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3330/result" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 1234567890, &quot;nbDeaths&quot; : 1234567890, &quot;scoreValue&quot; : 1234567890, &quot;levelId&quot; : 1234567890, &quot;username&quot; :&quot;Jacob&quot;, &quot;password&quot;:&quot;Salocin&quot;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -224,12 +311,12 @@
             </list>
           </option>
           <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;: &quot;Nicolas&quot;, &quot;password&quot; : &quot;Salocin&quot; }" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;Jacob&quot;, &quot;password&quot; : &quot;Salocin&quot; }" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/result" />
+          <option name="urlBase" value="http://localhost:3330/resultFromUserName" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -240,12 +327,12 @@
             </list>
           </option>
           <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 999999999999, &quot;nbDeaths&quot; : 9999999999, &quot;scoreValue&quot; : 9999999999, &quot;levelId&quot; : 199999999, &quot;username&quot; :&quot;Nicolas&quot;, &quot;password&quot;:&quot;Salocin&quot;}" />
+          <option name="textToSend" value="{&quot;username&quot;: &quot;Nicolas&quot;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/result" />
+          <option name="urlBase" value="http://localhost:3330/resultFromLevelId" />
           <option name="urlPath" value="" />
           <option name="headers">
             <list>
@@ -256,262 +343,7 @@
             </list>
           </option>
           <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 8.0, &quot;nbDeaths&quot; : 3, &quot;scoreValue&quot; : 1000, &quot;levelId&quot; : 1, &quot;username&quot; :&quot;Nicolas&quot;, &quot;password&quot;:&quot;Salocin&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/result" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 8.0, &quot;nbDeaths&quot; : 3, &quot;scoreValue&quot; : 1000, &quot;levelId&quot; : 1, &quot;username&quot; :&quot;Jacob&quot;, &quot;password&quot;:&quot;Bocaj&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/result" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 8.0, &quot;nbDeaths&quot; : 3, &quot;scoreValue&quot; : 1000, &quot;levelId&quot; : 1, &quot;username&quot; :&quot;Jacob&quot;, &quot;password&quot; : &quot;Bojac&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/result" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 8.0, &quot;nbDeaths&quot; : 3, &quot;scoreValue&quot; : 1000, &quot;levelId&quot; : 1, &quot;userId&quot; :1}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3330/resultFromUserIdAndLevelId" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;userId&quot; : 1, &quot;levelId&quot; : 1}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/results" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;userId&quot; : 1, &quot;levelId&quot; : 1}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/result+Ids" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;userId&quot; : 1, &quot;levelId&quot; : 1}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/result" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;timeInSeconds&quot; : 8.0, &quot;nbDeaths&quot; : 3, &quot;scoreValue&quot; : 1000, &quot;levelId&quot; : 1, &quot;userId&quot; :1}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/level" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;levelName&quot; : &quot;Ta Mere&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/level" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;levelName&quot; : &quot;Ton Pere&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/level" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;levelName&quot; : &quot;Ton Mere&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8080" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/level" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;levelName&quot; : &quot;Ta mere&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/user" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;: &quot;Nicolas&quot;, &quot;password&quot; : &quot;Salocin&quot; }" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/user" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;: &quot;Jacob&quot;, &quot;password&quot; : &quot;Bojac&quot; }" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;score&quot; : 9090}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;score&quot; : 1337}" />
+          <option name="textToSend" value="{&quot;levelName&quot;: &quot;Ta Mere&quot;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
       </list>
@@ -535,6 +367,14 @@
       <command value="start" />
       <node-interpreter value="project" />
       <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -542,51 +382,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fab7c55-003e-4ac7-b1f5-3f0d3cc9d85d" name="Default" comment="" />
-      <created>1539793773989</created>
+      <changelist id="aae76670-5f0c-4091-a64d-8932fb18d019" name="Default Changelist" comment="" />
+      <created>1539959833826</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539793773989</updated>
-      <workItem from="1539793775883" duration="6798000" />
-      <workItem from="1539871113627" duration="9317000" />
-      <workItem from="1539949039093" duration="9256000" />
+      <updated>1539959833826</updated>
+      <workItem from="1539959836266" duration="158000" />
+      <workItem from="1539960010357" duration="1419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25371000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1577000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-1087" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11103767" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32957748" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27365357" />
-      <window_info id="npm" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32896653" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,140 +425,35 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="4" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/@babel/parser/lib/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1697">
+          <caret line="3938" column="14" selection-start-line="3938" selection-start-column="14" selection-end-line="3938" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ResultTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LevelTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserTable.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="-70">
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/request.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js" />
-    <entry file="file://$PROJECT_DIR$/public/javascripts/allo.js" />
-    <entry file="file://$PROJECT_DIR$/src/users.js" />
-    <entry file="file://$PROJECT_DIR$/src/now.js" />
-    <entry file="file://$PROJECT_DIR$/public/javascripts/allo.js" />
-    <entry file="file://$PROJECT_DIR$/app.js" />
-    <entry file="file://$PROJECT_DIR$/src/users.js" />
-    <entry file="file://$PROJECT_DIR$/src/now.js" />
-    <entry file="file://$PROJECT_DIR$/.idea/Serveur.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LevelTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/request.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="508">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="26" column="69" lean-forward="true" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+        <state relative-caret-position="434">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResultTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
         </state>
       </provider>
     </entry>
