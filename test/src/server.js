@@ -4,9 +4,9 @@ import Database from "./database";
 
 class Server{
     constructor() {
+        
         this.app = express();
         this.app.use(bodyparser.json());
-
         this.database = new Database();
         let self = this;
 
@@ -29,6 +29,7 @@ class Server{
         self.app.post('/level', function (req,res) {
             res.send(self.database.levelTable.add(req.body.levelName));
         });
+
         self.app.post('/result', function (req,res) {
             if(self.identification(req.body.username, req.body.password)){
                 let userId = self.database.userTable.getUserId(req.body.username);
@@ -37,7 +38,6 @@ class Server{
             else{
                 res.send({error:"Invalid username or password"});
             }
-
         });
     }
 

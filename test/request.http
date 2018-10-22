@@ -5,31 +5,25 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-GET http://localhost:3330/
+GET http://localhost:8080/
 Accept: application/json
 
 ###
-POST http://localhost:3330/resultFromLevelName
+POST http://localhost:8080/resultFromLevelName
 Content-Type: application/json
 
 {"levelName": "Ta Mere"}
 
 ###
-POST http://localhost:3330/resultFromUserName
+POST http://localhost:8080/resultFromUserName
 Content-Type: application/json
 
 {"username": "Jacob"}
 
 ###
-POST http://localhost:3330/
-Content-Type: application/json
-
-{"score" : 9090}
 
 
-###
-
-POST http://localhost:3330/user
+POST http://localhost:8080/user
 Content-Type: application/json
 
 {"username": "Jacob", "password" : "Salocin" }
@@ -37,14 +31,14 @@ Content-Type: application/json
 
 ###
 
-POST http://localhost:3330/level
+POST http://localhost:8080/level
 Content-Type: application/json
 
 {"levelName" : "Ta Mere"}
 
 ###
 
-POST http://localhost:3330/result
+POST http://localhost:8080/result
 Content-Type: application/json
 
 {"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacob", "password":"Salocin"}

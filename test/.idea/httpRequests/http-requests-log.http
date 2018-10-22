@@ -1,3 +1,57 @@
+POST http://localhost:8080
+Content-Type: application/json
+
+{"score" : 9090}
+
+<> 2018-10-22T110309.404.html
+
+###
+
+POST http://localhost:8080/resultFromLevelName
+Content-Type: application/json
+
+{"levelName": "Ta Mere"}
+
+<> 2018-10-22T110305.200.json
+
+###
+
+POST http://localhost:8080/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacob", "password":"Salocin"}
+
+<> 2018-10-22T110259.200.json
+
+###
+
+POST http://localhost:8080/result
+Content-Type: application/json
+
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacob", "password":"Salocin"}
+
+<> 2018-10-22T110256.200.json
+
+###
+
+POST http://localhost:8080/level
+Content-Type: application/json
+
+{"levelName" : "Ta Mere"}
+
+<> 2018-10-22T110254.200.json
+
+###
+
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{"username": "Jacob", "password" : "Salocin" }
+
+<> 2018-10-22T110250.200.json
+
+###
+
 POST http://localhost:3330/result
 Content-Type: application/json
 
@@ -373,58 +427,6 @@ POST http://localhost:3330/result
 Content-Type: application/json
 
 {"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacjjjjjob", "password":"Salocin"}
-
-###
-
-POST http://localhost:3330/result
-Content-Type: application/json
-
-{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacob", "password":"Saljlkjlkocin"}
-
-###
-
-POST http://localhost:3330/resultFromUserName
-Content-Type: application/json
-
-{"username": "Jacob"}
-
-<> 2018-10-19T121427.200.json
-
-###
-
-POST http://localhost:3330/resultFromUserName
-Content-Type: application/json
-
-{"username": "Jacob"}
-
-<> 2018-10-19T121041.200.json
-
-###
-
-POST http://localhost:3330/result
-Content-Type: application/json
-
-{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 1234567890, "levelId" : 1, "username" :"Jacob", "password":"Salocin"}
-
-<> 2018-10-19T121035.200.json
-
-###
-
-POST http://localhost:3330/resultFromLevelName
-Content-Type: application/json
-
-{"levelName": "Ta Mere"}
-
-<> 2018-10-19T121015.200.json
-
-###
-
-POST http://localhost:3330/resultFromUserName
-Content-Type: application/json
-
-{"username": "Jacob"}
-
-<> 2018-10-19T120957.200.json
 
 ###
 
