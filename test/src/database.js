@@ -6,7 +6,6 @@ import ResultTable from "./ResultTable";
 class Database{
     constructor(){
         this.database = new bettersqlite3("database.db");
-        this.database.exec("CREATE TABLE IF NOT EXISTS Score  (id INTEGER PRIMARY KEY AUTOINCREMENT, score INTEGER)");
 
         this.userTable = new UserTable(this.database);
         this.levelTable = new LevelTable(this.database);
@@ -14,14 +13,14 @@ class Database{
 
     }
 
-    read() {
-        let statement = this.database.prepare("SELECT * FROM Score");
-        return statement.all();
-    }
+    drop(){
+        let statement = this.database.prepare("DROP TABLE Result");
+        statement.run();
+        statement =  this.database.prepare("DROP TABLE User");
+        statement.run();
+        statement =  this.database.prepare("DROP TABLE Level");
+        statement.run();
 
-    add(score) {
-        let statement = this.database.prepare("INSERT INTO Score(score) VALUES(?)");
-        statement.run(score);
     }
 }
 

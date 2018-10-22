@@ -18,7 +18,7 @@ Content-Type: application/json
 POST http://localhost:3330/resultFromUserName
 Content-Type: application/json
 
-{"username": "Jacjjjjjob"}
+{"username": "Jacob"}
 
 ###
 POST http://localhost:3330/
@@ -47,7 +47,7 @@ Content-Type: application/json
 POST http://localhost:3330/result
 Content-Type: application/json
 
-{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacjjjjjob", "password":"Salocin"}
+{"timeInSeconds" : 1234567890, "nbDeaths" : 1234567890, "scoreValue" : 10, "levelId" : 1, "username" :"Jacob", "password":"Salocin"}
 
 
 ###

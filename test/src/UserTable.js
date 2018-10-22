@@ -6,7 +6,7 @@ class UserTable{
 
     add(username, password){
         let statement = this.database.prepare("INSERT OR IGNORE INTO User(userUsername, userPassword) VALUES(?,?)");
-        statement.run(username, password);
+        return statement.run(username, password);
     }
 
     read(){

@@ -8,7 +8,7 @@ class ResultTable{
 
     add(timeInSeconds, nbDeaths, scoreValue, levelId,userId){
         let statement = this.database.prepare("INSERT INTO Result(resultTimeInSeconds,resultNbDeaths, resultScoreValue, result_LevelId, result_UserId) VALUES(?,?,?,?,?)");
-           statement.run(timeInSeconds,nbDeaths,scoreValue,levelId,userId);
+           return statement.run(timeInSeconds,nbDeaths,scoreValue,levelId,userId);
         }
 
     read(){
@@ -19,7 +19,7 @@ class ResultTable{
     getResultsFromUsername(username) {
         let statement = this.database.prepare("SELECT Result.resultTimeInSeconds,Result.resultNbDeaths,Result.resultScoreValue,User.userUsername,Level.levelName FROM Result " +
             "INNER JOIN User ON Result.result_UserId = User.userId " +
-            "INNER JOIN Level ON Result.result_LevelId = Level.levelId WHERE user.userUsername = ?");
+            "INNER JOIN Level ON Result.result_LevelId = Level.levelId WHERE User.userUsername = ?");
         return statement.all(username);
     }
 

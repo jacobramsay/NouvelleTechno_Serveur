@@ -11,7 +11,7 @@ class Server{
         let self = this;
 
         self.app.get('/', function(req, res) {
-            res.send(self.database.read());
+            res.send(self.database.resultTable.read());
         });
 
         self.app.post('/resultFromLevelName', function(req, res) {
@@ -23,33 +23,27 @@ class Server{
         });
 
         self.app.post('/user', function (req,res) {
-            self.database.userTable.add(req.body.username, req.body.password);
-            res.send(self.database.userTable.read());
+            res.send(self.database.userTable.add(req.body.username, req.body.password));
         });
 
         self.app.post('/level', function (req,res) {
-            self.database.levelTable.add(req.body.levelName);
-            res.send(self.database.levelTable.read());
+            res.send(self.database.levelTable.add(req.body.levelName));
         });
-
         self.app.post('/result', function (req,res) {
-            if(identification(req.body.username, req.body.password)){
+            if(self.identification(req.body.username, req.body.password)){
                 let userId = self.database.userTable.getUserId(req.body.username);
-                self.database.resultTable.add(req.body.timeInSeconds,req.body.nbDeaths,req.body.scoreValue,req.body.levelId, userId);
-                res.send(self.database.resultTable.read());
+                res.send(self.database.resultTable.add(req.body.timeInSeconds,req.body.nbDeaths,req.body.scoreValue,req.body.levelId, userId));
             }
-        });
+            else{
+                res.send({error:"Invalid username or password"});
+            }
 
-        self.app.post('/',function (req,res) {
-            self.database.add(req.body.score);
-            res.send(self.database.read());
         });
-
-        function identification(username, password){
-            return self.database.userTable.identification(username,password);
-        }
     }
 
+    identification(username, password){
+        return this.database.userTable.identification(username,password);
+    }
     address(){
         return this.currentApp ? this.currentApp.address() : null;
     }

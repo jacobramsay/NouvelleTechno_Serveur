@@ -6,7 +6,7 @@ class LevelTable{
 
     add(levelName){
         let statement = this.database.prepare("INSERT OR IGNORE INTO Level(levelName) VALUES(?)");
-        statement.run(levelName);
+        return statement.run(levelName);
     }
 
     read(){
