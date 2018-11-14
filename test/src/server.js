@@ -4,7 +4,7 @@ import Database from "./database";
 
 class Server{
     constructor() {
-        
+
         this.app = express();
         this.app.use(bodyparser.json());
         this.database = new Database();

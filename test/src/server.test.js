@@ -1,7 +1,6 @@
 import chai,{expect} from "chai";
 import chaiHttp from "chai-http";
 import Server from "./server";
-import fs from "fs";
 
 chai.use(chaiHttp);
 

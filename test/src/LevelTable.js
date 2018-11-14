@@ -8,12 +8,6 @@ class LevelTable{
         let statement = this.database.prepare("INSERT OR IGNORE INTO Level(levelName) VALUES(?)");
         return statement.run(levelName);
     }
-
-    read(){
-        let statement = this.database.prepare("SELECT * FROM Level");
-        return statement.all();
-    }
-
 }
 
 export default LevelTable;
